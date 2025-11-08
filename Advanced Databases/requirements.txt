@@ -1,0 +1,2 @@
+The libraries used for this project are pandas, seaborn, matplotlib, numpy and wordcloud. All the libraries are set up
+and imported in the very beginning of the project.
